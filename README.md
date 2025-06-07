@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Jan Paul Hartmann</h1>
+<h1 align="center">Hi 👋 I'm Jan Paul Hartman</h1>
 
 <p align="center">
   💻 Full-Stack Web & Mobile Developer • UI/UX Specialist • MSc in CS & Web Technologies <br/>
