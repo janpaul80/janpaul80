@@ -37,15 +37,15 @@ I’ve launched full SaaS platforms, VPN services, app generators, hosting solut
 - 🔒 HartVPN – Commercial-grade IKEv2 VPN with Smart DNS and client IPs *(in progress)*
 - 🤖 HartLiz AI – AI-powered site & app builder [ai.hartliz.com](https://ai.hartliz.com)
 - 🍽️ SafeBite – Allergy scanner & translator app for international travelers
-- 🌐 janpaul.co.uk – Personal website & portfolio
-- 📦 WHM/cPanel Hosting – Branded reseller hosting with WHMCS automation
+- 🌐 Coderxp.pro - Vive Coding platform autonomous
+- 📦 Rev-pro.dev - Tiktok, IG, YT Trabscribe 
 
 ---
 
 ### 📬 Let's Connect
 
-- 🌍 Website: [janpaul.be] https://janpaul.co.uk
-- 📧 Email: [jp@janpaul.be](mailto:jp@janpaul.co.uk)  
+- 🌍 Website: [paulhartmann.dev] https://paulhartmann.dev
+- 📧 Email: [jp@paulhartmann.dev](mailto:jp@paulhartmann.dev)
 - 💼 LinkedIn: [Jan P. Hartmann](https://au.linkedin.com/in/jan-p-hartman-b44790365)
 
 ---
