@@ -10,9 +10,9 @@
 
 ### 🚀 About Me
 
-I'm a software engineer with a passion for building AI-powered platforms, mobile/web apps, and cloud infrastructure. My work bridges design and development — helping businesses launch tools that *work beautifully* and *scale reliably*.
+I'm a software engineer with a passion for building AI-powered platforms, mobile/web apps, and cloud infrastructure. My work bridges design and development, helping businesses launch tools that *work beautifully* and *scale reliably*.
 
-I’ve launched full SaaS platforms, VPN services, app generators, hosting solutions, and ecommerce tools — all while keeping UI/UX at the core of the experience.
+I’ve launched full SaaS platforms, VPN services, app generators, hosting solutions, and ecommerce tools.all while keeping UI/UX at the core of the experience.
 
 ---
 
