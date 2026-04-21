@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋 I'm Jan Paul Hartmann</h1>
+<h1 align="center">Hi 👋 I'm Paul Hartmann</h1>
 
 <p align="center">
   💻 Full-Stack Web & Mobile Developer • UI/UX Specialist • MSc in CS & Web Technologies <br/>
-  🌎 Remote-Ready | Bilingual (EN/ES) | Based in Ecuador <br/>
+  🌎 Remote-Ready | Bilingual (EN/ES/DE) | Based in the Netherlands & Ecuador <br/>
   🔧 Building next-gen tools with AI, automation & scalable backend systems
 </p>
 
