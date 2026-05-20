@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Full-Stack Web & Mobile Developer • UI/UX Specialist • MSc in CS & Web Technologies <br/>
-  🌎 Remote-Ready | Bilingual (EN/ES/DE) | Based in the Netherlands & Ecuador <br/>
+  🌎 Remote-Ready | Bilingual (EN/ES/DE) | Based in Europe & Ecuador <br/>
   🔧 Building next-gen tools with AI, automation & scalable backend systems
 </p>
 
