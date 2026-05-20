@@ -35,7 +35,7 @@ I’ve launched full SaaS platforms, VPN services, app generators, hosting solut
 ### 💼 Featured Projects
 
 - 🔒 HartVPN – Commercial-grade IKEv2 VPN with Smart DNS and client IPs *(in progress)*
-- 🤖 HartLiz AI – AI-powered site & app builder [ai.hartliz.com](https://ai.hartliz.com)
+- 🤖 FileNinja - An online file-sharing service that allows users to send large files quickly and easily
 - 🍽️ SafeBite – Allergy scanner & translator app for international travelers
 - 🌐 Coderxp.pro - Vive Coding platform autonomous
 - 📦 Rev-pro.dev - Tiktok, IG, YT Trabscribe 
@@ -46,7 +46,6 @@ I’ve launched full SaaS platforms, VPN services, app generators, hosting solut
 
 - 🌍 Website: [paulhartmann.dev] https://paulhartmann.dev
 - 📧 Email: [jp@paulhartmann.dev](mailto:jp@paulhartmann.dev)
-- 💼 LinkedIn: [Jan P. Hartmann](https://au.linkedin.com/in/jan-p-hartman-b44790365)
 
 ---
 
