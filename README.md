@@ -1,68 +1,52 @@
-<h1 align="center">Hi 👋 I'm Paul Hartmann</h1>
+# Paul Hartmann
 
-<p align="center">
-  💻 Full-Stack Web & Mobile Developer • UI/UX Specialist • MSc in CS & Web Technologies <br/>
-  🌎 Remote-Ready | Bilingual (EN/ES/DE) | Based in Europe & Ecuador <br/>
-  🔧 Building next-gen tools with AI, automation & scalable backend systems
-</p>
+I build web apps, mobile ideas, AI tools, and small product systems from the first rough sketch to something people can click, test, and improve.
 
----
+Most of my work sits somewhere between product design and engineering. I like building useful interfaces, wiring up the backend, and getting the first real version online.
 
-### 🚀 About Me
+[Website](https://paulhartmann.dev) | [Email](mailto:jp@paulhartmann.dev) | [GitHub](https://github.com/janpaul80)
 
-I'm a software engineer with a passion for building AI-powered platforms, mobile/web apps, and cloud infrastructure. My work bridges design and development, helping businesses launch tools that *work beautifully* and *scale reliably*.
+## What I work on
 
-I’ve launched full SaaS platforms, VPN services, app generators, hosting solutions, and ecommerce tools.all while keeping UI/UX at the core of the experience.
+- AI tools for coding, research, chat, and automation
+- Full stack apps with TypeScript, React, Next.js, Node.js, and PHP
+- Mobile and cross platform apps with Flutter and modern web stacks
+- Linux hosting, Docker, WHM/cPanel, Vercel, and deployment work
+- Product UI that is simple enough for real people to use
 
----
+## Repos to start with
 
-### 🧰 Tech Toolbox
+| Project | What it is |
+| --- | --- |
+| [AtlasLM](https://github.com/janpaul80/AtlasLM) | A self hosted research workspace for asking questions over documents with citations. |
+| [Klaw](https://github.com/janpaul80/klaw) | A local AI agent runtime that can plan, write files, and run commands where you can see what is happening. |
+| [TokenKlaw](https://github.com/janpaul80/tokenklaw) | A tool for reducing repeated context and noisy output in AI coding sessions. |
+| [Zuno App](https://github.com/janpaul80/Zuno-App) | A 3D mobile platformer project with a web site, game backend services, rewards, inventory, and shop systems. |
+| [FileNinja](https://github.com/janpaul80/fileninja) | A file transfer app for sending large files through a clean upload flow. |
+| [CoderXP](https://github.com/janpaul80/coderxp) | An AI coding workspace experiment with templates, live preview, editor surfaces, and desktop packaging work. |
 
-<p>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-WHM-cPanel-orange?style=flat&logo=cpanel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-</p>
+## Tools I use often
 
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-### 💼 Featured Projects
+## How I work
 
-- 🔒 HartVPN – Commercial-grade IKEv2 VPN with Smart DNS and client IPs *(in progress)*
-- 🤖 FileNinja - An online file-sharing service that allows users to send large files quickly and easily
-- 🍽️ SafeBite – Allergy scanner & translator app for international travelers
-- 🌐 Coderxp.pro - Vive Coding platform autonomous
-- 📦 Rev-pro.dev - Tiktok, IG, YT Trabscribe 
+- I start with a real use case, then build the smallest version that proves it.
+- I care about readable code, clear screens, and apps that do not waste the user's time.
+- I enjoy turning messy ideas into something organized enough to ship.
+- I work comfortably in English, Spanish, and German.
 
----
+## Contact
 
-### 📬 Let's Connect
+For product builds, AI tools, automation, or technical help:
 
-- 🌍 Website: [paulhartmann.dev] https://paulhartmann.dev
-- 📧 Email: [jp@paulhartmann.dev](mailto:jp@paulhartmann.dev)
-
----
-
-> “The tools you build are only as good as the passion behind them.”  
-> — Jan Paul Hartmann
-
-<!--
-**janpaul80/janpaul80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Website: [paulhartmann.dev](https://paulhartmann.dev)
+- Email: [jp@paulhartmann.dev](mailto:jp@paulhartmann.dev)
